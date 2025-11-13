@@ -20,9 +20,10 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 
 ## 🛠 Tech Stack
 
-| Frontend | Backend | API | Styling | HTTP Client |
-|----------|---------|-----|--------|------------|
-| Next.js 16 | Node.js | FakeStore API | Tailwind CSS | Axios |
+| Frontend   | API           | Styling       | HTTP Client |
+|-----------|---------------|---------------|------------|
+| Next.js 16 | FakeStore API | Tailwind CSS  | Axios      |
+
 
 ---
 
