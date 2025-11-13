@@ -62,10 +62,19 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
    yarn
 ---
 
-3. **Run Locally:**
+3. **Run the Development Server:**
    ```bash
    npm run dev
+   or
+   yarn dev
+
 ---
+
+4. **Open in Browser:**
+   ```bash
+   Visit http://localhost:3000
+
+---   
 
 ## 👨‍💻 Developer
 
