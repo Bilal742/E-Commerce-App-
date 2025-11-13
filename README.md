@@ -3,7 +3,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue?logo=tailwind-css&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?logo=typescript&style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
