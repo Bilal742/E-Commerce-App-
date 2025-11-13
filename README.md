@@ -41,21 +41,14 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 
 ---
 
-## 📸 Screenshots
-
-*(Add your images in this section for better presentation)*
-
-![Homepage](screenshots/homepage.png)
-![Product Detail](screenshots/product-detail.png)
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository:**
+   
    ```bash
    git clone https://github.com/Bilal742/ShopEase-App.git
-2. **Install Dependencies:**
+3. **Install Dependencies:**
+   
    ```bash
    npm install
    or
@@ -63,6 +56,7 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 ---
 
 3. **Run the Development Server:**
+   
    ```bash
    npm run dev
    or
@@ -71,6 +65,7 @@ Browse products, view product details, and enjoy a **clean and modern UI**.
 ---
 
 4. **Open in Browser:**
+   
    ```bash
    Visit http://localhost:3000
 
