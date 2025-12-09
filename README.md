@@ -11,7 +11,7 @@ A **responsive e-commerce web application** built with **Next.js**, **React**, a
 Browse products, view product details, and enjoy a **clean and modern UI**.  
 
 ---
-
+ 
 ## 🌐 Live Demo
  
 🎯 **Check out the live application:**  
