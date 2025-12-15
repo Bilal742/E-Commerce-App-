@@ -9,7 +9,7 @@
 
 A **responsive e-commerce web application** built with **Next.js**, **React**, and **Tailwind CSS** using the **FakeStore API**.   
 Browse products, view product details, and enjoy a **clean and modern UI**.  
-
+ 
 ---
  
 ## 🌐 Live Demo
